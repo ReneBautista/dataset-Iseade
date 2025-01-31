@@ -1,0 +1,15 @@
+name: iseade
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - ipywidgets
+  - sweetviz
+  - ipykernel
+  - ydata-profiling
+  - matplotlib
+  - pandas
+  - seaborn
+  - numpy=1.23
+prefix: /opt/anaconda3/envs/iseade
